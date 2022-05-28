@@ -31,6 +31,10 @@ The error gradient is given by:
 
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights.
 
+<br>
+<br>
+<br>
+
 ## Algorithm:
 
 1. Import packages
@@ -46,10 +50,11 @@ Repeat iterations until convergence in term of the selected error criterion. An 
 6. Updating Weights
 
 ## Program:
-
-### Program to implement ANN by back propagation algorithm.
-### Developed by   : KAYALVIZHI M
-### RegisterNumber : 212220230024
+```
+Program to implement ANN by back propagation algorithm.
+Developed by   : KAYALVIZHI M
+RegisterNumber : 212220230024
+```
 ```python3
 
 import numpy as np
